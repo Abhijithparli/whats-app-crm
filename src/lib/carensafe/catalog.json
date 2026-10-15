@@ -1,0 +1,16 @@
+{
+  "upiId": "7356451527@ybl",
+  "payeeName": "Care N Safe",
+  "freeDeliveryMin": 399,
+  "deliveryCharge": null,
+  "maxQty": 3,
+  "products": [
+    { "key": "l", "name": "CareNSafe Premium Cotton L Pads", "row": "L Pads 280mm – ₹199", "desc": "10 pads · Normal flow", "price": 199, "pack": "10 pads · Size L · 280 mm", "kind": "pad" },
+    { "key": "xl", "name": "CareNSafe Premium Cotton XL Pads", "row": "XL Pads 320mm – ₹220", "desc": "10 pads · Medium–heavy flow", "price": 220, "pack": "10 pads · Size XL · 320 mm", "kind": "pad" },
+    { "key": "xxl", "name": "CareNSafe Premium Cotton XXL Pads", "row": "XXL Pads 350mm – ₹230", "desc": "10 pads · Heavy flow & night", "price": 230, "pack": "10 pads · Size XXL · 350 mm", "kind": "pad" },
+    { "key": "combo-normal", "name": "CareNSafe Combo Pack (Normal Flow)", "row": "Combo Normal – ₹419", "desc": "20 pads · L + XL · FREE delivery", "price": 419, "pack": "20 pads · Sizes L / XL", "kind": "pad" },
+    { "key": "combo-heavy", "name": "CareNSafe Combo Pack (Heavy Flow)", "row": "Combo Heavy – ₹450", "desc": "20 pads · XL + XXL · FREE delivery", "price": 450, "pack": "20 pads · Sizes XL / XXL", "kind": "pad" },
+    { "key": "pack40", "name": "CareNSafe 40 Pads Mega Pack", "row": "40 Pads Mega – ₹699", "desc": "Full cycle pack · Best value · FREE delivery", "price": 699, "pack": "40 pads · 🤍 L 280 mm ×20 · 🌹 XL 320 mm ×10 · 💙 XXL 350 mm ×10", "kind": "mega" },
+    { "key": "razor", "name": "CareNSafe Premium Razor", "row": "Razor (2 pcs) – ₹100", "desc": "German technology", "price": 100, "pack": "2 razors", "kind": "razor" }
+  ]
+}
